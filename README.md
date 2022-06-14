@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leakeyqq
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning mySql, Java, pentesting
+- 👀 I Love programming
+- 🌱 I’m currently in Crypto related programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email me on leakeymugendi3@gmail.com
 
