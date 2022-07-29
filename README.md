@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leakeyqq
 - 👀 I Love programming
-- 🌱 I’m currently in Crypto related programming
+- 🌱 I’m currently doing a web application project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email me on leakeymugendi3@gmail.com
 
