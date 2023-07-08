@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leakeyqq
-- 👀 I Love programming
-- 🌱 I’m currently doing a web application project
-- 💞️ I’m looking to collaborate on ...
+- 👀 I develop web applications and mobile apps.
+- 🌱 I’m a fan and a developer in the crypto space.
+- 💞️ I’m looking to collaborate on building startups.
 - 📫 How to reach me email me on leakeymugendi3@gmail.com
 
 <!---
