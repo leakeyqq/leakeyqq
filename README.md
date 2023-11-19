@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leakeyqq
-- 👀 I develop web applications and mobile apps.
+- 👀 I am a NodeJs developer.
 - 💞️ I’m looking to collaborate on building startups in the crypto space.
 - 📫 Email me on leakeymugendi3@gmail.com
 
